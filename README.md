@@ -2,7 +2,7 @@
 🔭 I’m currently working on Java and Front-End projects  
 🌱 I’m learning React and Data Structures  
 🤝 I’m looking to collaborate on real-world projects  
-📫 Reach me at: pranay@example.com | LinkedIn: linkedin.com/in/yourprofile
+📫 Reach me at: pranayk039@gmail.com | LinkedIn: https://www.linkedin.com/in/pranay-kumar-723455248/
 
 
 <!---
